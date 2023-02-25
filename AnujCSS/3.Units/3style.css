@@ -1,0 +1,17 @@
+main{
+    border: 5px solid gold;
+    /* width: 100%; */
+    /* width: 25vw; */
+    width: 25%;
+}
+
+h1{
+    font-size: 40px;
+}
+
+/* % relative to parent width and height */
+section{
+    border: 5px solid black;
+    /* width: 50%; */
+    width: 50vw;
+}
